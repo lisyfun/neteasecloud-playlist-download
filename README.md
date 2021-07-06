@@ -3,11 +3,12 @@
 网页云歌单下载
 
 代码结构如下
+```
 ../neteasecloud-playlist-download
 └── src
     ├── main.py
     └── music
-
+```
 1. 选中自己想要下载的歌单 -> 分享 -> 复制链接 
 <img width="1002" alt="图片" src="https://user-images.githubusercontent.com/76048823/124612598-0af91c00-dea5-11eb-904a-fe24efa715d8.png">
 
@@ -29,5 +30,5 @@
 5. 修改代码中13行的cookie值,为第三步中复制到的cookie
 <img width="948" alt="图片" src="https://user-images.githubusercontent.com/76048823/124614656-0d5c7580-dea7-11eb-82c8-b063df7f3291.png">
 
-6. 执行代码,python main.py
+6. 执行代码,`python main.py`
 
