@@ -16,6 +16,7 @@
 <img width="946" alt="图片" src="https://user-images.githubusercontent.com/76048823/124614520-e605a880-dea6-11eb-90da-08c1db772248.png">
 
 3. 从第一步复制到的歌单链接复制到谷歌浏览器中,使用手机网易云扫码登陆(如果不登陆默认只能下载前10首歌)
+
 未登陆:
 <img width="1250" alt="图片" src="https://user-images.githubusercontent.com/76048823/124612442-e8670300-dea4-11eb-9f7a-0d78479d300a.png">
 已登陆:
