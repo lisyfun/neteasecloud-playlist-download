@@ -6,8 +6,8 @@
 ```
 ../neteasecloud-playlist-download
 └── src
-    ├── main.py
-    └── music
+    └── main.py
+
 ```
 1. 选中自己想要下载的歌单 -> 分享 -> 复制链接 
 <img width="1002" alt="图片" src="https://user-images.githubusercontent.com/76048823/124612598-0af91c00-dea5-11eb-904a-fe24efa715d8.png">
